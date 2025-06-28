@@ -1,0 +1,1 @@
+core::transport::GhostWireBehaviour: NetworkBehaviourEventProcess<MdnsEvent>
