@@ -1,7 +1,0 @@
-cargo:rerun-if-env-changed=SODIUM_LIB_DIR
-cargo:rerun-if-env-changed=SODIUM_SHARED
-cargo:rerun-if-env-changed=SODIUM_USE_PKG_CONFIG
-cargo:rustc-link-lib=static=sodium
-cargo:rustc-link-search=native=C:\Users\User\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libsodium-sys-0.2.7\msvc/x64/Debug/v142/
-cargo:include=C:\Users\User\Desktop\hash\Obsidian\ghostwire\target\x86_64-pc-windows-gnu\debug\build\libsodium-sys-3fbfca588a283fd1\out\source\libsodium\src/libsodium/include
-cargo:lib=C:\Users\User\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libsodium-sys-0.2.7\msvc/x64/Debug/v142/

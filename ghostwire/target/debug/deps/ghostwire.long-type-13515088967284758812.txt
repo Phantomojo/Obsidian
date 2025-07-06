@@ -1,1 +1,0 @@
-core::transport::GhostWireBehaviour: NetworkBehaviourEventProcess<RequestResponseEvent<bytes::Bytes, bytes::Bytes>>
