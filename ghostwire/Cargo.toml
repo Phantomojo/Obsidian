@@ -26,7 +26,7 @@ libp2p-tcp = { version = "0.44.0", features = ["tokio"] }
 aes-gcm = "0.10"
 blake2b_simd = "1.0"
 getrandom = "0.2"
-ring = "0.16"
+ring = "0.17"
 
 # Mesh networking - Reticulum-inspired
 # reticulumnet = "0.1"
